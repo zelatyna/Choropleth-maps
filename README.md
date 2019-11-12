@@ -7,5 +7,4 @@ The main goal was to use Folium Choropleth Map with a Time Slider that would sho
 
 ![](images/choropleth_with_slider.gif)
 
-### Working example: 
-[](https://vibrant-archimedes-68bdaa.netlify.com/) 
+### [Working example] (https://vibrant-archimedes-68bdaa.netlify.com/) 
